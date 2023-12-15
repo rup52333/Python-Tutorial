@@ -1,6 +1,4 @@
-
 import math
-
 
 # Type cpnversion
 
@@ -46,7 +44,41 @@ import math
 
 
 
+# ******Ambiguity is the reason for learning programming language instead of Simple english or other language
+
+# speed_of_light=299792458
+# cycles_per_second=200000000 #2.7GHz
+# print(speed_of_light/cycles_per_second)
 
 
 
+
+
+
+# String concatenation
+
+# name='Rup'
+
+# print (name+'kumar')
+
+
+
+# Extract link from page
+
+
+
+# s='udacity'
+# t='bodacious'
+# Write a python code that prints out udacious without using any quote characvters
+
+# print(s[:3]+t[4:])
+
+# Assume text is a variable that holds a string.Write pthon code that prints out the position of the first occurrance of 'hoo' in the value of text, or -1 if it does not occur at all
+
+# print('text'.find('hoo'))
+
+#find 2nd r in text
+# text="rup kumar"
+
+# print(text.find('r',text.find('r')+1))
 
